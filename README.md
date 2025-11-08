@@ -12,8 +12,10 @@ Planets_AR is an Unıty-based Augmented Reality (AR) mobile application that vis
 - In Build Settings, switch platform to Android
 - Build and run the APK on an AR-supported mobile device
 # How to Use
-1-Launch the app on your device
-2-Point the camera at a flat surface
-3-Once a surface is detected, tap on the screen once to place planet model on that surface
-4-The planet will stay fixed in that position-move your device around to explore it from different angles
+- Launch the app on your device
+- Point the camera at a flat surface
+- Once a surface is detected, tap on the screen once to place planet model on that surface
+- The planet will stay fixed in that position-move your device around to explore it from different angles
+
+
 
